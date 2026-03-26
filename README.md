@@ -1,1 +1,2 @@
 # python_0_dan
+Assalou alaykum men python dasturlash tilini 0 dan urganayabman va bu yirga uzim urganib yozgan kodlarini joylab boraman
